@@ -915,7 +915,7 @@ The system demonstrates:
 
 # 👩‍💻 Author
 
-**Jayashree M B**
+**Thippeswamy K S**
 
 Restaurant Management System
 Java + MongoDB + HTML + CSS + JavaScript
